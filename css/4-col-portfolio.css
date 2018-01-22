@@ -41,6 +41,7 @@ body {
 .iconsbottom {
   text-align: center;
   margin: auto;
+  padding-top: 15px;
 }
 
 #tabicon {
@@ -68,3 +69,6 @@ body {
   text-align: center;
 }
 
+#about {
+  background: white;
+}
