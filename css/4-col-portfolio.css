@@ -70,6 +70,11 @@ body {
   text-align: center;
 }
 
+.col-center-with-padding {
+  text-align: center;
+  padding-top: 10px;
+}
+
 .title-bars {
   background: #343a40;
   /*background: #0059b3;*/
