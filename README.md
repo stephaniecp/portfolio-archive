@@ -1,6 +1,6 @@
 # Stephanie's Coding Portfolio
 
-I enjoy coding as a way to create solutions to existing problems, create tools and play with design. Solving problems is a challenge that I enjoy and teaches me more about what I do. Self tough since mid 2016, I started with [CodeCademy](https://www.codecademy.com/) and most recently started using [Team Treehouse Learning](https://teamtreehouse.com/), where I am learning about Javascript. More information can be found about me on my [LinkedIn page](https://www.linkedin.com/in/stephaniecaronpare/).
+I enjoy coding as a way to create solutions to existing problems, create tools and play with design. Solving problems is a challenge that I enjoy and it teaches me more about what I do. Self tough since mid 2016, I started with [CodeCademy](https://www.codecademy.com/) and most recently switched to [Team Treehouse Learning](https://teamtreehouse.com/), where I am learning about Javascript. More information can be found about me on my [LinkedIn page](https://www.linkedin.com/in/stephaniecaronpare/).
 
 
 ## Here's a breakdown of the projects listed in my portfolio:
@@ -13,6 +13,6 @@ I enjoy coding as a way to create solutions to existing problems, create tools a
 
 * __Checklist Captain (Summer / Fall of 2017)__ - This was a collaboration project to build an Android app. The idea came after hearing about PhoneGap (a mobile application development framework) and a recent sailing trip that lead to realizing that there were important functions missing on all checklist apps available then (mainly the possibly to access and fill checklist offline and the possibility to saved results). I did the front end part of the app (thank to PhoneGap, written in HTML & CSS) and created a static web page later on.
 
-* __Personal site created to sell my former boat - This was a simple static page that I created when I was in the process to sell my former sailboat. I used HTML, CSS & Bootstrap to create it and to track progress/visibility I used Google Analytics.
+* __Personal site created to sell my former boat (Fall of 2017)__ - This was a simple static page that I created when I was in the process to sell my former sailboat. I used HTML, CSS & Bootstrap to create it and to track progress/visibility I used Google Analytics.
 
 * __Personal sailing/travel blog (Summer of 2017)__ - This was a fun project that I played with for a couple of months when I was on that sailing trip. With only a base in HTML/CSS and some of the framework Bootstrap at the time, I added features along the way and improved the site a little bit a the time. I played a good amount wit Google Maps API (to share our location as we moved forward), Facebook Comments API, Google Analytics and various small changes that I was pretty excited about then like the carousel that later on had changing pictures.
