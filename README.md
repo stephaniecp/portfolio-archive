@@ -1,6 +1,6 @@
 # Stephanie's Coding Portfolio
 
-I enjoy coding as a way to create solutions to existing problems, create tools and play with design. Solving problems is a challenge that I enjoy and it teaches me more about what I do. Self tough since mid 2016, I started with [CodeCademy](https://www.codecademy.com/) and most recently switched to [Team Treehouse Learning](https://teamtreehouse.com/), where I am learning about Javascript. More information can be found about me on my [LinkedIn page](https://www.linkedin.com/in/stephaniecaronpare/).
+I enjoy coding as a way to create solutions to existing problems, create tools and play with design. Solving problems is a challenge that I enjoy and it teaches me more about what I do everytime. Self tough since mid 2016, I started with [CodeCademy](https://www.codecademy.com/) and most recently switched to [Team Treehouse Learning](https://teamtreehouse.com/), where I am learning about Javascript. More information can be found about me on my [LinkedIn page](https://www.linkedin.com/in/stephaniecaronpare/).
 
 
 ## Here's a breakdown of the projects listed in my portfolio:

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7d6e00b-a375-4ff0-ad4c-3a9e002358bf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,10 +16,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
+            <state relative-caret-position="280">
               <caret line="60" column="136" lean-forward="false" selection-start-line="60" selection-start-column="136" selection-end-line="60" selection-end-column="136" />
               <folding>
                 <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -47,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="299" lean-forward="false" selection-start-line="2" selection-start-column="299" selection-end-line="2" selection-end-column="299" />
+            <state relative-caret-position="45">
+              <caret line="2" column="194" lean-forward="false" selection-start-line="2" selection-start-column="194" selection-end-line="2" selection-end-column="194" />
               <folding />
             </state>
           </provider>
@@ -68,8 +68,8 @@
       <find>stephanie</find>
       <find>auto</find>
       <find>titl</find>
-      <find>about</find>
       <find>hover</find>
+      <find>about</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -79,8 +79,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/4-col-portfolio.css" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -177,12 +177,12 @@
       <workItem from="1522187400170" duration="3127000" />
       <workItem from="1522467057841" duration="722000" />
       <workItem from="1523059181151" duration="276000" />
-      <workItem from="1528843578451" duration="6123000" />
+      <workItem from="1528843578451" duration="6184000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50234000" />
+    <option name="totallyTimeSpent" value="50295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -465,17 +465,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="299" lean-forward="false" selection-start-line="2" selection-start-column="299" selection-end-line="2" selection-end-column="299" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
+        <state relative-caret-position="280">
           <caret line="60" column="136" lean-forward="false" selection-start-line="60" selection-start-column="136" selection-end-line="60" selection-end-column="136" />
           <folding>
             <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -487,6 +479,14 @@
             <marker date="1528917937000" expanded="false" signature="11207:11392" ph="..." />
             <marker date="1528917937000" expanded="false" signature="11296:11302" ph="©" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="2" column="194" lean-forward="false" selection-start-line="2" selection-start-column="194" selection-end-line="2" selection-end-column="194" />
+          <folding />
         </state>
       </provider>
     </entry>
