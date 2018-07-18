@@ -3,7 +3,7 @@
 I enjoy coding as a way to create solutions to existing problems, create tools and play with design. Solving problems is a challenge that I enjoy and it teaches me more about what I do everytime. Self tough since mid 2016, I started with [CodeCademy](https://www.codecademy.com/) and most recently switched to [Team Treehouse Learning](https://teamtreehouse.com/), where I am learning about Javascript. More information can be found about me on my [LinkedIn page](https://www.linkedin.com/in/stephaniecaronpare/).
 
 
-## Here's a breakdown of the projects listed in my portfolio:
+## Here's a breakdown of the projects listed in my [portfolio](https://stephaniecp.github.io/portfolio/):
 
 * __SCP Turbo File Exporter 2000 (March 2018)__ - This is a tool that I created while conducting manual QA, in order to work more efficiently. At that time, my work required to take regular screenshots on various devices and send them to my main desktop afterward. I figured that it would be useful to have a tool easily accessible from any device (by going to [bit.ly/scpturbosend](https://bit.ly/scpturbosend)) that would allow selecting multiple files at once and send them to my Google Drive under a common folder that I would chose the name for at every upload.
 
