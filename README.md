@@ -12,6 +12,7 @@ I enjoy coding as a way to create solutions to existing problems, create tools a
 * __ArtSpry (Fall of 2017)__ - This was a site created for a talent booking agency. To build the page, I used basic front-end HTML, CSS, framework Bootstrap and MODX (a Content Management System ). It was my first project working with a CMS, which definitely required additional time to understand but I got the hang of it and in retro spec would use it again for similar projects.
 
 * __Checklist Captain (Summer / Fall of 2017)__ - This was a collaboration project to build an Android app. The idea came after hearing about PhoneGap (a mobile application development framework) and a recent sailing trip that lead to realizing that there were important functions missing on all checklist apps available then (mainly the possibly to access and fill checklist offline and the possibility to saved results). I did the front end part of the app (thank to PhoneGap, written in HTML & CSS) and created a static web page later on.
+    Update 08-07-18: I removed the link to the Checklist Captain temporarily.
 
 * __Personal site created to sell my former boat (Fall of 2017)__ - This was a simple static page that I created when I was in the process to sell my former sailboat. I used HTML, CSS & Bootstrap to create it and to track progress/visibility I used Google Analytics.
 
